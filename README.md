@@ -33,7 +33,7 @@
 
 - 生成五言绝句：
 
-<code>python poetry_gen.py --mode sample --head 我自横刀向天笑</code>
+<code>python poetry_gen.py --mode sample --head 床前明月光</code>
 
 <code>床前明月光，自恐奈归悲</code>
 
